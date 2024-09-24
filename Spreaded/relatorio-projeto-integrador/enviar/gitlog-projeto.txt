@@ -1,0 +1,263 @@
+E:\Documentos\app unimar\projeto-integrador>git log -n 43
+commit e88acb5464fbaa7e551444c61b3ed937c4015d5b (HEAD -> main, origin/main, origin/HEAD)
+Author: ArcMendesCD <60723336+ArcMendesCD@users.noreply.github.com>
+Date:   Sun Oct 1 14:33:03 2023 -0300
+
+    Create coleira.ino
+
+commit ed95cf6e41e41d03928045e2eb855ab5c48e1b98
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Sun Oct 1 14:25:50 2023 -0300
+
+    Add files via upload
+
+commit 761773949e8b579b43b26076a3eb53da2521f910
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Sat Sep 30 17:57:51 2023 -0300
+
+    Imagem do circuito do comedouro
+
+commit 1fe466f065a96169f1170f0a8894bb95ee9c51b6
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Sat Sep 30 17:57:06 2023 -0300
+
+    Delete Comedouro/c
+
+commit a8f4d9b1dcb1955cdffca60beceafaf638aff3c5
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Sat Sep 30 17:56:39 2023 -0300
+
+    Upload official code for Comedouro
+
+commit d2c57ae2c63c02a2a057b331f257dbbfa4b385c2
+Author: ArcMendesCD <60723336+ArcMendesCD@users.noreply.github.com>
+Date:   Fri Sep 29 20:42:15 2023 -0300
+
+    Update connection.ino
+
+commit c1013d6dd0e3f8b6db5183123fe99ab4cacba3a4
+Author: ArcMendesCD <60723336+ArcMendesCD@users.noreply.github.com>
+Date:   Fri Sep 29 20:30:29 2023 -0300
+
+    Update connection.ino
+
+commit 7bf0fcd1a07592bc44269a185fc812c635de7b3a
+Author: ArcMendesCD <60723336+ArcMendesCD@users.noreply.github.com>
+Date:   Fri Sep 29 20:28:22 2023 -0300
+
+    Update connection.ino
+
+    Changelist:
+    - Adicionado metodo de escrever o valor do pulso no codigo
+    - Correção do codigo de criação de objetos
+
+commit d7dc6780a8e163b46425c53737298c12c69d19dc
+Author: ArcMendesCD <60723336+ArcMendesCD@users.noreply.github.com>
+Date:   Fri Sep 29 20:14:12 2023 -0300
+
+    Create connection.ino
+
+commit 43e6ad64143f4033f0d7cc4ce7e05142e379e0c5
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Fri Sep 29 17:09:00 2023 -0300
+
+    Create c
+
+commit 668ff0b60cc5eab652e6197c30d54808c8319cff
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Fri Sep 29 17:08:26 2023 -0300
+
+    Delete file comedouro
+
+commit febbe30586714c78b240d9449d0c43fbf144f4f0
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Fri Sep 29 17:07:59 2023 -0300
+
+    Criando pasta 'Comedouro'
+
+commit 73097636ff14ea6e88739696908182e35bc6fdaf
+Author: Natália Alves Brito <123335608+natyalvesbrito@users.noreply.github.com>
+Date:   Tue Sep 26 13:27:11 2023 -0300
+
+    pagina saude melhorada
+
+commit 370491f66f9485e0bd9253b0de163874c71259cf
+Author: Natália Alves Brito <123335608+natyalvesbrito@users.noreply.github.com>
+Date:   Thu Sep 21 20:58:44 2023 -0300
+
+    Add files via upload
+
+commit 773b7561d15756f9ed0ad75d4c71905e73970de0
+Author: Natália Alves Brito <123335608+natyalvesbrito@users.noreply.github.com>
+Date:   Thu Sep 21 20:41:41 2023 -0300
+
+    Add files via upload
+
+commit af42c9dad2ec5ba0ff039713e1cc83587f688269
+Author: Natália Alves Brito <123335608+natyalvesbrito@users.noreply.github.com>
+Date:   Thu Sep 21 20:40:36 2023 -0300
+
+    Add files via upload
+
+commit dc9b7d759e950f624c31a84f2f9bec90c50cbe48
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:03:30 2023 -0300
+
+    Delete Hardware/Comedouro/comedouro
+
+commit 659f02b721192320649716baa2b13f3562585d41
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:03:06 2023 -0300
+
+    Delete Hardware/Coleira/coleira
+
+commit 4848a2865d8b645978effa1dc2bff9ff60fc66d6
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:02:46 2023 -0300
+
+    Delete Hardware/f
+
+commit 044a77fc7e65a2eb64e5cdb58900cf14745b0606
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:01:40 2023 -0300
+
+    Create comedouro
+
+commit ed2aff72812ae2deaf9c28b8ae2ad16ce7126002
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:01:24 2023 -0300
+
+    Create coleira
+
+commit 53c8609bcfc76ad5996d534e6af9b25dd1cb7077
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:00:56 2023 -0300
+
+    Create hardware
+
+commit 78fb01ce386b93ef94b59b7f652a6ca3daf2af6d
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 20:00:09 2023 -0300
+
+    Update README.md
+
+commit 658761e6e551f2034a9b491f60cc0d086c930dc2
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:59:59 2023 -0300
+
+    Update README.md
+
+commit 3091c1f7be85b85584a8efc36746f3c5497edb98
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:59:49 2023 -0300
+
+    Update README.md
+
+commit 014be6eea0fa8d568656b5bffc1a4fec2e6ecb22
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:59:38 2023 -0300
+
+    Update README.md
+
+commit 7e85ed1720f602f29e486d6cdbbbe059db992650
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:59:12 2023 -0300
+
+    Delete icone-alimentacao.png
+
+commit 609a5567248ee0c4967e93fe47652aebe190020c
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:59:05 2023 -0300
+
+    Delete icone-pata.png
+
+commit bd679978a0a68f659fbeb39b54121ad85e002ea2
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:58:57 2023 -0300
+
+    Delete icone-saude.png
+
+commit b4f564cbb0f1357641eef6f6cd8f024ec140d90e
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:58:46 2023 -0300
+
+    Delete edit.png
+
+commit c9d32c36e717a622ec4a9588d2e5b73fdcd8bb3b
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:58:36 2023 -0300
+
+    Delete animal.jpg
+
+commit edfbe2f6f680538d6fc9ed77ecf957ad7ea0681e
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:57:38 2023 -0300
+
+    Add files via upload
+
+commit d22e1e471922d3ecb1ae6f35cd530fd1044c4262
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:48:49 2023 -0300
+
+    Rename styles.css to Website (preview)/styles.css
+
+commit 9fcfbd465cc6a11fd0fb9aa3e00874f811b83804
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:48:13 2023 -0300
+
+    Move stylealimentacao.css to Website (preview)/stylealimentacao.css
+
+commit 20e21b57452974bc09e2380289d8cc6b3109a34c
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:47:51 2023 -0300
+
+    Move scriptalimentacao.js to Website (preview)/scriptalimentacao.js
+
+commit 2bf0a9eb41332eca7a802f744986d0dcdedc08ba
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:47:16 2023 -0300
+
+    Move script.js to Website (preview)/script.js
+
+commit 7c60401060ab164f363132a7b0ba77127afaf884
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:46:34 2023 -0300
+
+    Move paginasaude.html to Website (preview)/paginasaude.html
+
+commit 18e49792b26a044455f81ae66a68c0de3378dd33
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:45:50 2023 -0300
+
+    Move paginaalimentacao.html to Website (preview)/paginaalimentacao.html
+
+commit 62e5cd668244bf49fa5095c2e1262edf77511a0c
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:44:39 2023 -0300
+
+    Move link para o design no figma - não a.txt to Website (preview)/link para o design no figma - não a.txt
+
+commit 44fb226f389a554a961c710a336432110adcd4a0
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:43:21 2023 -0300
+
+    Move paginaprincipal.html to Website (preview)/paginaprincipal.html
+
+commit 725a75dc9cbe4e6ef7524b3ee92b1387d827929a
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:37:49 2023 -0300
+
+    Create test
+
+commit 34fb6567fc3cc6e78e82c8b92c3f2261e2d537a5
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Tue Sep 19 19:21:17 2023 -0300
+
+    Update script.js
+
+commit b11f3220c0339c3ce1fcf051d76f167a9aa1541f
+Author: Letícia Alves de Pontes <50830736+leticia-hub@users.noreply.github.com>
+Date:   Sat Sep 16 00:46:52 2023 -0300
+
+    Update README.md
+(END)

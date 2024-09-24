@@ -1,0 +1,2 @@
+Sensor(value=25, listeners=[FileSensorListener(output=<_io.TextIOWrapper name='sensor.txt' mode='w+' encoding='cp1252'>), LambdaAdapterSensorListener(fn=<built-in function print>), LambdaAdapterSensorListener(fn=<function <lambda> at 0x000002D04A17A5C0>)])
+Sensor(value=32, listeners=[FileSensorListener(output=<_io.TextIOWrapper name='sensor.txt' mode='w+' encoding='cp1252'>), LambdaAdapterSensorListener(fn=<built-in function print>), LambdaAdapterSensorListener(fn=<function <lambda> at 0x000002D04A17A5C0>)])

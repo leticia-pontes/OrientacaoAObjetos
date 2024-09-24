@@ -1,0 +1,33 @@
+POO - 10/11 (sexta-feira)
+
+
+Padrões de Projeto
+
+- Criação
+Factory Method:
+- Estruturais
+- Comportamentais
+
+
+
+* Observer
+
+- Formulário Básico
+- Class. (nome, idade, etc)
+- Modificação Form. -> Mod. Modelo ('Class') -> Atualização da Tela
+* Gerenciar qtde. telas, alterções, banco de dados, etc. (várias dependências)
+- Observer para corrigir
+
+> Observável
+> Observador
+
+Listener
+
+* Exemplo: sensor temperatura (controle ar condicionado)
+- Leitura do valor
+- Envia: server, ar, sd
+
+* Objetivo: plugins para controlar ... sem alterar a classe Sensor
+
+- Modelo: lista de observadores -> criar uma interface
+- Listener Pessoa (modelo Pessoa)

@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.env
+.venv/
+env/
+*.log
+*.coverage
+*.pytest_cache/
+.cache/
+pip-log.txt
+*.sqlite3
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+*.project
+*.classpath
+*.settings/
+target/
+bin/
+out/
+*.swp
+*.javadoc/
+
+# IntelliJ IDEA / Eclipse / VSCode config files
+.idea/
+*.iws
+*.ipr
+*.iml
+*.launch
+.settings/
+.vscode/
+
+# C++
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.dll
+*.dSYM/
+*.log
+*.a
+*.lib
+*.lo
+*.slo
+*.Plo
+*.cmake
+build/
+CMakeFiles/
+Makefile
+CMakeCache.txt
+
+# HTML
+*.html.swp
+
+# Office Files
+*.docx
+
+# General system files
+.DS_Store
+Thumbs.db
